@@ -107,8 +107,3 @@ def best(x):
 def online():
   print("Timer Bot is online...")
   bot.polling()
-
-
-
-if __name__ == "__main__":
-  online()
