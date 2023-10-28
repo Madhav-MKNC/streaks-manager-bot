@@ -1,0 +1,4 @@
+flask
+telebot
+datetime
+python-dotenv
